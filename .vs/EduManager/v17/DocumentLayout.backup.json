@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|c:\\fpt\\su25\\prn232\\project\\edumanager\\edumanager\\models\\edumanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|solutionrelative:edumanager\\models\\edumanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|c:\\fpt\\su25\\prn232\\project\\edumanager\\edumanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|solutionrelative:edumanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|c:\\fpt\\su25\\prn232\\project\\edumanager\\edumanager\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|solutionrelative:edumanager\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|c:\\fpt\\su25\\prn232\\project\\edumanager\\edumanager\\models\\aspnetuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|solutionrelative:edumanager\\models\\aspnetuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|c:\\fpt\\su25\\prn232\\project\\edumanager\\edumanager\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|solutionrelative:edumanager\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|c:\\fpt\\su25\\prn232\\project\\edumanager\\edumanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3FE949-A059-4A33-BBAC-A81CFBCF6190}|EduManager\\EduManagerAPI.csproj|solutionrelative:edumanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspNetUserToken.cs",
+              "DocumentMoniker": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\AspNetUserToken.cs",
+              "RelativeDocumentMoniker": "EduManager\\Models\\AspNetUserToken.cs",
+              "ToolTip": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\AspNetUserToken.cs",
+              "RelativeToolTip": "EduManager\\Models\\AspNetUserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:31:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AspNetUserClaim.cs",
+              "DocumentMoniker": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\AspNetUserClaim.cs",
+              "RelativeDocumentMoniker": "EduManager\\Models\\AspNetUserClaim.cs",
+              "ToolTip": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\AspNetUserClaim.cs",
+              "RelativeToolTip": "EduManager\\Models\\AspNetUserClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:31:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "EduManager\\Models\\AspNetUser.cs",
+              "ToolTip": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\AspNetUser.cs",
+              "RelativeToolTip": "EduManager\\Models\\AspNetUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:31:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Program.cs",
+              "RelativeDocumentMoniker": "EduManager\\Program.cs",
+              "ToolTip": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Program.cs",
+              "RelativeToolTip": "EduManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:23:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EduManagerContext.cs",
+              "DocumentMoniker": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\EduManagerContext.cs",
+              "RelativeDocumentMoniker": "EduManager\\Models\\EduManagerContext.cs",
+              "ToolTip": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\Models\\EduManagerContext.cs",
+              "RelativeToolTip": "EduManager\\Models\\EduManagerContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:27:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\appsettings.json",
+              "RelativeDocumentMoniker": "EduManager\\appsettings.json",
+              "ToolTip": "C:\\FPT\\SU25\\PRN232\\Project\\EduManager\\EduManager\\appsettings.json",
+              "RelativeToolTip": "EduManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T07:23:42.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
