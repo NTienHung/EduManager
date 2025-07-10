@@ -1,0 +1,12 @@
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\bin\Debug\net8.0\Domain.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\bin\Debug\net8.0\Domain.pdb
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\Domain.pdb
+C:\FPT\SU25\PRN232\prj\EduManager\Domain\obj\Debug\net8.0\ref\Domain.dll

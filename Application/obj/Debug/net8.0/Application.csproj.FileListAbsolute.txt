@@ -1,0 +1,15 @@
+C:\FPT\SU25\PRN232\prj\EduManager\Application\bin\Debug\net8.0\Application.deps.json
+C:\FPT\SU25\PRN232\prj\EduManager\Application\bin\Debug\net8.0\Application.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Application\bin\Debug\net8.0\Application.pdb
+C:\FPT\SU25\PRN232\prj\EduManager\Application\bin\Debug\net8.0\Domain.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Application\bin\Debug\net8.0\Domain.pdb
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\refint\Application.dll
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\Application.pdb
+C:\FPT\SU25\PRN232\prj\EduManager\Application\obj\Debug\net8.0\ref\Application.dll
